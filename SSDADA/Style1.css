@@ -1,0 +1,43 @@
+
+#Second{
+    
+    margin: 10px;
+}
+
+
+
+body{
+    background-color: yellow;
+}
+
+
+
+#fgf{
+
+    background-color: blue;
+}
+#fgf ul {
+    display: flex;
+    /*se utiliza para una que las listas no se queden juntas*/
+}
+#fgf li {
+    margin: 10px;
+    padding: 10px;
+    /*Se utiliza para quitar el diseno de la lista*/
+    list-style: none;
+    text-decoration: none;
+}
+#fgf a {
+    text-decoration: none;
+    color: white;
+}
+
+.fff {
+    margin-top: -600px;
+    margin-left: 900px;
+}
+
+.laudy{
+    text-align: center;
+    color: brown;
+}

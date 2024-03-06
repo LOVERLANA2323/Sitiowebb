@@ -1,0 +1,53 @@
+body{
+    background-color: yellow;
+}
+
+.Francia{
+    text-align: center;
+    background-color: white;
+}
+
+
+.fuego{
+    text-align: center;
+}
+
+
+#Ana {
+background-color: blue;
+
+}
+
+
+#Ana {
+    display: flex;
+}
+
+#Ana li{
+    margin: 10px;
+    padding: 10px;
+    /*Se utiliza para quitar el diseno de la lista*/
+    list-style: none;
+    text-decoration: none;
+}
+
+#Ana a {
+    color: white;
+    text-decoration: none;
+}
+
+.Keysi{
+    background-color: white;
+    text-align: center;
+}
+.ffg {
+    margin-top: -600px;
+    margin-left: 900px;
+}
+
+.Navila{
+
+    text-align: center;
+    margin: -600px;
+
+}

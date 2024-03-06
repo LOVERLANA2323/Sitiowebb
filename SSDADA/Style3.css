@@ -1,0 +1,35 @@
+#poderosa{
+    display: flex;
+}
+
+
+#poderosa li{
+    margin: 10px;
+    padding: 10px;
+    /*Se utiliza para quitar el diseno de la lista*/
+    list-style: none;
+    text-decoration: none;
+}
+
+#poderosa a{
+    color: white;
+    text-decoration: none;
+}
+
+#poderosa{
+    background-color: blue;
+}
+
+body{
+    background: yellow;
+}
+
+
+h1,h2{
+    text-align: center;
+    background-color: white;
+}
+
+*{
+    margin: 10px;
+}
